@@ -9,3 +9,5 @@ In this assignment we focused on refactoring code which is improving the code wi
 4. Upload assigntment to correctly
 
 5. Add link to our deployed application.
+
+(/Assets/01-html-css-git-homework-demo.png)
