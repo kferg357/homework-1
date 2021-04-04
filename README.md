@@ -10,4 +10,6 @@ In this assignment we focused on refactoring code which is improving the code wi
 
 5. Add link to our deployed application.
 
-(/Assets/01-html-css-git-homework-demo.png)
+6. Thr origianl image is located in group 2 and is name as homework photo.png
+
+7. We are to improve website without changing how it looks.
