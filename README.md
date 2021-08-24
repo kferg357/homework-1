@@ -13,3 +13,6 @@ In this assignment we focused on refactoring code which is improving the code wi
 6. Thr origianl image is located in group 2 and is name as homework photo.png
 
 7. We are to improve website without changing how it looks.
+
+![homework photo](https://user-images.githubusercontent.com/79925523/130671124-51f7fa9f-5e44-4361-a90f-e6b0ec80b4c2.PNG)
+
